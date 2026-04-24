@@ -1,0 +1,14 @@
+F:\github Projects\Fawry\Quantum_Car\bin\Debug\net8.0\Quantum_Car.exe
+F:\github Projects\Fawry\Quantum_Car\bin\Debug\net8.0\Quantum_Car.deps.json
+F:\github Projects\Fawry\Quantum_Car\bin\Debug\net8.0\Quantum_Car.runtimeconfig.json
+F:\github Projects\Fawry\Quantum_Car\bin\Debug\net8.0\Quantum_Car.dll
+F:\github Projects\Fawry\Quantum_Car\bin\Debug\net8.0\Quantum_Car.pdb
+F:\github Projects\Fawry\Quantum_Car\obj\Debug\net8.0\Quantum_Car.GeneratedMSBuildEditorConfig.editorconfig
+F:\github Projects\Fawry\Quantum_Car\obj\Debug\net8.0\Quantum_Car.AssemblyInfoInputs.cache
+F:\github Projects\Fawry\Quantum_Car\obj\Debug\net8.0\Quantum_Car.AssemblyInfo.cs
+F:\github Projects\Fawry\Quantum_Car\obj\Debug\net8.0\Quantum_Car.csproj.CoreCompileInputs.cache
+F:\github Projects\Fawry\Quantum_Car\obj\Debug\net8.0\Quantum_Car.dll
+F:\github Projects\Fawry\Quantum_Car\obj\Debug\net8.0\refint\Quantum_Car.dll
+F:\github Projects\Fawry\Quantum_Car\obj\Debug\net8.0\Quantum_Car.pdb
+F:\github Projects\Fawry\Quantum_Car\obj\Debug\net8.0\Quantum_Car.genruntimeconfig.cache
+F:\github Projects\Fawry\Quantum_Car\obj\Debug\net8.0\ref\Quantum_Car.dll
